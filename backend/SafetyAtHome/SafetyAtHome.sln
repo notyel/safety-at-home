@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.WebApi", "1.WebApi", "{F79699E6-3DCB-4FC2-8118-540B738B3CBF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Services", "2.Services", "{0445432B-7B35-4E56-AC82-8A8599AD2821}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Common", "3.Common", "{028D0ECA-7646-4B41-9DDE-EA05D439D2BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SafetyAtHome.WebApi", "SafetyAtHome.WebApi\SafetyAtHome.WebApi.csproj", "{50ACA37A-CDED-482E-8455-913922325E49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50ACA37A-CDED-482E-8455-913922325E49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50ACA37A-CDED-482E-8455-913922325E49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50ACA37A-CDED-482E-8455-913922325E49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50ACA37A-CDED-482E-8455-913922325E49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{50ACA37A-CDED-482E-8455-913922325E49} = {F79699E6-3DCB-4FC2-8118-540B738B3CBF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42812780-67E1-48EA-8D6D-020EC6A880C8}
+	EndGlobalSection
+EndGlobal
