@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using SafetyAtHome.Domain.Entities.Auth;
+using SafetyAtHome.Domain.Data.Entities.Auth;
 
 namespace SafetyAtHome.Data
 {

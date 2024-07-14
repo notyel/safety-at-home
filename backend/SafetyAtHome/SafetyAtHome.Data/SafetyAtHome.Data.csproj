@@ -17,7 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SafetyAtHome.Common\SafetyAtHome.Common.csproj" />
-    <ProjectReference Include="..\SafetyAtHome.Domain\SafetyAtHome.Domain.csproj" />
+    <ProjectReference Include="..\SafetyAtHome.Domain\SafetyAtHome.Domain.Data.csproj" />
   </ItemGroup>
 
   <ItemGroup>

@@ -3,7 +3,7 @@ using AutoMapper;
 using SafetyAtHome.Domain.Repositories.Auth;
 using SafetyAtHome.Common.Models.DTO.Auth;
 using SafetyAtHome.Common.Models.Auth;
-using SafetyAtHome.Domain.Entities.Auth;
+using SafetyAtHome.Domain.Data.Entities.Auth;
 using SafetyAtHome.Common.Utilities;
 
 namespace SafetyAtHome.Data.Repositories.Auth

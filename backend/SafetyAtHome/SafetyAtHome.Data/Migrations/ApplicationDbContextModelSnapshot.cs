@@ -22,7 +22,7 @@ namespace SafetyAtHome.Data.Migrations
 
             NpgsqlModelBuilderExtensions.UseIdentityByDefaultColumns(modelBuilder);
 
-            modelBuilder.Entity("SafetyAtHome.Domain.Entities.Auth.User", b =>
+            modelBuilder.Entity("SafetyAtHome.Domain.Data.Entities.Auth.User", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
