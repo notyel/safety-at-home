@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SafetyAtHome.Common\SafetyAtHome.Common.csproj" />
+    <ProjectReference Include="..\SafetyAtHome.Domain\SafetyAtHome.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
