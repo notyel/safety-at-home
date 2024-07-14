@@ -24,8 +24,4 @@
     <ProjectReference Include="..\SafetyAtHome.Data\SafetyAtHome.Data.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\Auth\" />
-  </ItemGroup>
-
 </Project>
