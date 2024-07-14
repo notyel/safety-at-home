@@ -21,7 +21,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SafetyAtHome.Data", "Safety
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Domain", "4.Domain", "{61ACA42E-3286-49D6-930A-DF996F9E8FB1}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SafetyAtHome.Domain", "SafetyAtHome.Domain\SafetyAtHome.Domain.csproj", "{B0169231-0922-441E-BE14-34595C697088}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SafetyAtHome.Domain.Data", "SafetyAtHome.Domain\SafetyAtHome.Domain.Data.csproj", "{B0169231-0922-441E-BE14-34595C697088}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{DF286D7E-0B20-47DC-8447-891FB83E0820}"
 	ProjectSection(SolutionItems) = preProject

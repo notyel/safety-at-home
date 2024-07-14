@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace SafetyAtHome.Domain.Entities.Auth
+namespace SafetyAtHome.Domain.Data.Entities.Auth
 {
     [Table("Users", Schema = "auth")]
     public class User
