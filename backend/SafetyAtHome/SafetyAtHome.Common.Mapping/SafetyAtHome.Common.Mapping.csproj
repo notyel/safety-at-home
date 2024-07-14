@@ -7,7 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\SafetyAtHome.Common\SafetyAtHome.Common.csproj" />
+    <ProjectReference Include="..\SafetyAtHome.Domain\SafetyAtHome.Domain.csproj" />
   </ItemGroup>
 
 </Project>
