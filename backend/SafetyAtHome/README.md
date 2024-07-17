@@ -13,7 +13,7 @@
 #### Data
 
 - **Función**: Gestionar la persistencia y recuperación de datos.
-- **Responsabilidad**: Interactuar con la base de datos utilizando Entity Framework o cualquier otra tecnología de acceso a datos.
+- **Responsabilidad**: Interactuar con la base de datos **utilizando Entity Framework** o cualquier otra tecnología de acceso a datos.
 
 #### Domain
 
